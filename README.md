@@ -1,12 +1,14 @@
 extract files from zip folder or clone the project from github.
 
+github link : https://github.com/prudhvi-marada/REST_API.git
+
 Run `npm install` to install dependencies.
 
 start the server using command: npm start
 
 now the server is running at  : Server running on http://localhost:3000 
 
-REST Api's testing by Thunder Client:
+REST Api's testing by Thunder Client: (for better Readable see in my github link given above )
 
 --> Testing GET METHOD: 
    
